@@ -1,0 +1,22 @@
+{
+  "name": "lottie-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgjwhite/lottie-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgjwhite/lottie-test/issues"
+  },
+  "homepage": "https://github.com/jgjwhite/lottie-test#readme",
+  "dependencies": {
+    "lottie-web": "^5.1.8"
+  }
+}
